@@ -1,0 +1,6 @@
+Vela uses ical.js 2.2.1, unmodified, licensed under MPL-2.0.
+Copyright holders and full license: licenses/ical.js-LICENSE.
+Source: https://github.com/kewisch/ical.js
+Exact release source: https://registry.npmjs.org/ical.js/-/ical.js-2.2.1.tgz
+Vela itself is distributed under the accompanying MIT LICENSE.
+Bundled fonts retain their individual OFL notices under licenses/fonts/.
