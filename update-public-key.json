@@ -1,0 +1,7 @@
+{
+  "algorithm": "Ed25519",
+  "publicKeyHex": "a43f18db7ab1468ad074c7164e0ecf04de742116f5f0c6aa32f9ee062deae7d6",
+  "keyId": "7de688a5617b7e89",
+  "payloadFormat": "vela-update-manifest-v1",
+  "knownAnswerSignature": "9A2NX96I+xWoWlTqTFjUyk1jWV+gAacIjmmAGnkoHJ7k5BIFpLhlq4ypqg4fRvN51WBMVrpgoyonbUj4oO9lAQ=="
+}
